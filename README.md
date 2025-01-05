@@ -1,8 +1,32 @@
-# React + Vite
+# 🌟 Award-Winning Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is designed to deliver a luxurious and modern website experience with **scroll-triggered animations**, **geometric transitions**, and **video storytelling**. The design is fully responsive and user-friendly.
 
-Currently, two official plugins are available:
+## 🚀 Quick Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/theahmetgg/awwards
+   cd awwards
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the project:**
+
+   ```bash
+   npm run dev
+   ```
+
+Visit [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+## ⚙️ Technologies Used
+
+- **React.js**
+- **GSAP**
+- **Tailwind CSS**
